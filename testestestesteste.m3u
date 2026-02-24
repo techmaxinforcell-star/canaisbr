@@ -1,15 +1,55 @@
+
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_1
-
 #                                   =====    TV | ABERTA  =====
+#EXTINF:-1 tvg-id="br" tvg-name="globo" group-title="TV ABERTA",TV GLOBO BAHIA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="globo" group-title="TV ABERTA",TELA BRASIL TV AO VIVO
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="arapuantv" group-title="TV ABERTA",ARAPUA TV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sertaotv" group-title="TV ABERTA",SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sbt" group-title="TV ABERTA",SBT INTERIOR
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="redetv" group-title="TV ABERTA",TV Guará Caxias REDE TV
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvrn" group-title="TV ABERTA",TV LITORAL RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="redetv" group-title="TV ABERTA",TV Pampa (Rede TV RS) Ao Vivo
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sbt" group-title="TV ABERTA",SBT Nova Mutum Ao Vivo
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sbtnews" group-title="TV ABERTA",SBT NEWS 
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sbt" group-title="TV ABERTA",TV ARATU 
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="redetv" group-title="TV ABERTA",SGC Tv-Rede TV Rondônia Ao Vivo
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8?
 #EXTINF:-1 tvg-id="br" tvg-name="band" group-title="TV ABERTA",BAND-PARA
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvvilarealmt" group-title="TV ABERTA",TV VILA REAL(RECORD MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="record" group-title="TV ABERTA",TV VILA REAL(RECORD ES)
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="redetv" tvg-logo=" " group-title="TV ABERTA",REDE PARANA
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="redetv" tvg-logo=" " group-title="TV ABERTA",REDE TV SP
+https://dmxleo.dailymotion.com/cdn/manifest/video/kYe5OYErhldJ75Azib2.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Fwww.cxtv.com.br%2F
 #EXTINF:-1 tvg-id="br" tvg-name="redetv" tvg-logo=" " group-title="TV ABERTA",REDE TV ES
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="tvpadre" tvg-logo=" " group-title="TV ABERTA",TV PADRE-CICERO
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="istv" tvg-logo=" " group-title="TV ABERTA",ISTV ALT
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="nova" tvg-logo=" " group-title="TV ABERTA",TV NOVA JUARES
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="meionorte" tvg-logo=" " group-title="TV ABERTA",TV MEIO NORTE
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="meionorte" tvg-logo=" " group-title="TV ABERTA",TV MEIO NORTE2
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="record" group-title="TV ABERTA",TV Amplitude Juína (Record MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="tvgrandenatalhd" tvg-logo=" " group-title="TV ABERTA",TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="tvsuldeminas" tvg-logo=" " group-title="TV ABERTA",TV SUL DE MINAS
@@ -34,20 +74,119 @@ http://200.189.113.201/hls/tve.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="ZOOM" tvg-logo=" " group-title="TV ABERTA",TV ZOOM AUTOMOTIVO
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvpocos" tvg-logo=" " group-title="TV ABERTA",TV POCOS DE CAUDAS
+https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="playtv" tvg-logo=" " group-title="TV ABERTA",PLAY TV
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+
+#                                          =====   FILMES  =====
+
+#EXTINF:-1 tvg-id="br" tvg-name="filmerise" group-title="FILMES",FilmRise Séries Gratuitas Ao Vivo
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/c496a5f8-7908-41d2-af55-ec603450a2af/0.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="revivatv" group-title="FILMES",REVIVA TV AO Vivo
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvsonata" group-title="FILMES",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="channe" group-title="FILMES",Ao Vivo TV Santa Cecilia
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="channe1" group-title="FILMES",CHANNEL 1 Ao Vivo
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8  
+#EXTINF:-1 tvg-id="br" tvg-name="novaplay" group-title="FILMES",Tv Nova Play Ao Vivo
+https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="play" group-title="FILMES",Grjngo Ao Vivo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvporto" group-title="FILMES",Porto Alegre 24 Horas TV (Pop Tv) Ao Vivo
+https://rtisoluctions.com.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="play" group-title="FILMES",Interativa TV Ao Vivo
+https://stmv7.samcast.com.br/itvportal/itvportal/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="cinepix" group-title="FILMES",CinePIX TV Ao Vivo 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-id="br" tvg-name="runtime" group-title="FILMES",RUN TIME ACAO 
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="runtime" group-title="FILMES",RUN TIME aovivo
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="clouding" group-title="FILMES",CLOUDING TV
+https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="gln" group-title="FILMES",GLN TV AO Vivo
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sancast" group-title="FILMES",SAMCAST
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sonycinema" group-title="FILMES",SONY ONE Cinema Ao Vivo
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="xtreme" group-title="FILMES",XTREME MOVIES
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="moviessphere" tvg-logo=" " group-title="FILMES",MOVIES-SEPHERE
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
 #                                    =====   NOTICIAS  =====
+
 #EXTINF:-1 tvg-id="br" tv-name="jovempannews" tvg-logo=" " group-title="NOTICIAS",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="tv247" tvg-logo=" " group-title="TV ABERTA",TV 247
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="euronews" tvg-logo=" " group-title="TV ABERTA",EURONEWS
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+
 #                                        ===== EDUCACAO  =====
+
 #EXTINF:-1 tvg-id="br" tvg-name="ufg" tvg-logo=" " group-title="EDUCACAO",TV BRASIL TV UFG
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+
+#                                        ===== MUSICAS   =====
+#EXTINF:-1 tvg-id="br" tvg-name="tracebrasil" group-title="MUSICAS",TRACE BRASIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=JMr0lvPYYV0
+#EXTINF:-1 tvg-id="br" tvg-name="tvuniao" tvg-logo=" " group-title="MUSICAS",UNIAO PLAY
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8 
+
+
+#EXTINF:-1 tvg-id="br" tvg-name="pop" group-title="MUSICAS",Kpop TV Play Ao Vivo
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvchanel" group-title="MUSICAS",Tv Channel Network Ao Vivo
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+ 
 #                                    ===== INTERNACIONAL  =====
+
 #EXTINF:-1 tvg-id="br" tvg-name="tvficcao" tvg-logo=" " group-title="TV ABERTA",TV-FICCAO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="retroplus" tvg-logo=" " group-title="TV ABERTA",RETRO PLUS TV UNO
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tv-name="tvmazatlan" tvg-logo=" " group-title="NOTICIAS",TVP MAZATLAN MEX
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="pt" tvg-name="rfptv" tvg-logo=" " group-title="INTERNACIONAL",RFPTV
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="pt" tvg-name="speed" tvg-logo=" " group-title="INTERNACIONAL",SPEEDVISION Ao Vivo
+https://eb9a3a62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="pt" tvg-name="tvculiacan" tvg-logo=" " group-title="INTERNACIONAL",TVP CULIACAN
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#                                    =====   CARROS  =====
+
+#EXTINF:-1 tvg-id="br" tvg-name="powernation" tvg-logo=" " group-title="CARROS",Power Nation en Español Ao Vivo
+https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="garagetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp" group-title="ESPORTES",Garage TV Ao Vivo
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="wsntv" tvg-logo=" " group-title="CARROS",WSN TV do Carro Ao Vivo
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="drivechanel" tvg-logo=" " group-title="CARROS",Drive Channel Tv Ao Vivo
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+
+
+#                                    =====   ESPORTES  =====
+
+#EXTINF:-1 tvg-id="br" tvg-name="caze tv 3" tvg-logo=" " group-title="CARROS",CazéTV Ao Vivo
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="fifa" group-title="ESPORTES",FIFA+ FHD
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="nsporte" tvg-logo=" " group-title="ESPORTES",N Sports Ao Vivo
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+
+
 #                                    =====   RELIGIOSO  =====
+
+
 #EXTINF:-1 tvg-id="br" tvg-name="tv TV ITAPE" tvg-logo=" " group-title="RELIGIOSO",TVITAPE
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="redegospel" tvg-logo=" " group-title="RELIGIOSO",REDE GOSPEL
@@ -56,7 +195,78 @@ https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="br" tvg-name="3anjo" tvg-logo=" " group-title="RELIGIOSO",3 ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#                                    =====    ESPORTES  =====
-#EXTINF:-1 tvg-id="br" tvg-name="caze tv 3" tvg-logo=" " group-title="ESPORTES",CazéTV Ao Vivo
+#EXTINF:-1 tvg-id="br" tvg-name="life" tvg-logo=" " group-title="RELIGIOSO",LIFE AMERICA
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvaberta" tvg-logo=" " group-title="TV ABERTA",FAMA TV 
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvaberta" tvg-logo=" " group-title="TV ABERTA",FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="adranalinatv" tvg-logo=" " group-title="TV ABERTA",ADRENALINA TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=35b2f898-e0d6-4fd9-ae93-ba7029af163a
+#EXTINF:-1 tvg-id="br" tvg-name="amazonsat" tvg-logo=" " group-title="TV ABERTA",TVAMAZONSAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvangel" tvg-logo=" " group-title="TV ABERTA",TVANGEL TV PORTUGUESE
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="parlamento" tvg-logo=" " group-title="TV ABERTA",TVART CANAL PARLAMENTO PORTUGUES
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="awtv" tvg-logo=" " group-title="TV ABERTA",AWTV  1080P
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="TVBABY" tvg-logo=" " group-title="TV ABERTA",TVBABY FRIST
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=57af660e-52d2-4a0d-8f16-4a6ebcd413ce
+#EXTINF:-1 tvg-id="br" tvg-name="bmcnews" tvg-logo=" " group-title="NOTICIAS",BM&C  NEWS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8c530424-556e-4d0f-b64e-9e2d82496a7b
+#EXTINF:-1 tvg-id="br" tvg-name="boasnovas" tvg-logo=" " group-title="RELIGIOSO",TVBOAS NOVAS TV
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvjundiar25" tvg-logo=" " group-title="TV ABERTA",TVCANAL 25 JUNDAI
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="apucarana" tvg-logo=" " group-title="TV ABERTA",CANAL 38 APUCARANA
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="canaleducacao" tvg-logo=" " group-title="EDUCACAO",CANAL EDUCAÇAO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="gov" tvg-logo=" " group-title="EDUCACAO",CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="canal libras" tvg-logo=" " group-title="EDUCACAO",CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="sei la" tvg-logo=" " group-title="TV ABERTA",canal sei la 
+https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="cative" tvg-logo=" " group-title="TV ABERTA",CATIVE 2 ESTREAM FM 
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="radiocamera" tvg-logo=" " group-title="TV ABERTA",RADIO CAMERA
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="mastertv" tvg-logo=" " group-title="TV ABERTA",MASTER TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="croma" tvg-logo=" " group-title="TV ABERTA",CROMA TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="combrtv" tvg-logo=" " group-title="EDUCACAO",COM BR TV
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="brics" tvg-logo=" " group-title="TV ABERTA",CANAL BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="operacaotbomt" tvg-logo=" " group-title="TV ABERTA",OPERACAO COMBATE
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="camera1" tvg-logo=" " group-title="TV ABERTA",CAMERA 1
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="camera2" tvg-logo=" " group-title="TV ABERTA",CAMERA 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="amsolucao" tvg-logo=" " group-title="TV ABERTA",AM SOLUCAO
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvdopovo" tvg-logo=" " group-title="TV ABERTA",TV DO OPOVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="aguas" tvg-logo=" " group-title="TV ABERTA",CONTRA DAGUAS
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvfuturo" tvg-logo=" " group-title="TV ABERTA",TV FUTURO 
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvamerica" tvg-logo=" " group-title="TV ABERTA",TV MAIS AMERICA
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvmax" tvg-logo=" " group-title="TV ABERTA",TV MAX
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="padrecicero" tvg-logo=" " group-title="TV ABERTA",TV PADRE CICERO
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="tvmarajoara" tvg-logo=" " group-title="TV ABERTA",TV MARAJOARA
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-name="modelo" tvg-logo=" " group-title="TV ABERTA",TV MODELO
+https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
+#EXTINF:-1 tvg-id="br" tvg-name="modelo" tvg-logo=" " group-title="TV ABERTA",TCM- TV Cabo Mossoró Ao Vivo
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#                                    =====    ADULTO  =====
+#EXTINF:-1 tvg-id="br" tvg-name="adulto" tvg-logo=" " group-title="ADULTO",BLUE HUSTLE
